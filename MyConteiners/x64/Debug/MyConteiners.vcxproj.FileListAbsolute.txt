@@ -1,0 +1,2 @@
+C:\Users\tochk\OneDrive\Desktop\MyConteiners\x64\Debug\MyConteiners.exe
+C:\Users\tochk\OneDrive\Desktop\MyConteiners\x64\Debug\MyConteiners.pdb
